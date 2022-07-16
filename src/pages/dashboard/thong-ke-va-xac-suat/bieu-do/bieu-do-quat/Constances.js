@@ -1,0 +1,9 @@
+export const OPEN_DIALOG_ADD = "open_dialog_add";
+export const OPEN_DIALOG_EDIT = "open_dialog_edit";
+export const SET_INPUT_DIALOG_ADD = "set_InputDialog_add";
+export const SET_INPUT_DIALOG_EDIT = "set_InputDialog_edit";
+export const ADD_TITLE = "add_title";
+export const EDIT_TITLE = "edit_title";
+export const SUBMIT_CHART = "submit_chart";
+export const DEL_COLLUMN = "del_collumn";
+export const DISABLE_DELETE = "disable_delete";
